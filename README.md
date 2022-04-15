@@ -196,6 +196,7 @@
 - [starkops](https://github.com/seanjameshan/starkops) - StarkNet CLI
 - [voyager](https://voyager.online) - Block explorer.
 - [starktx](https://starktx.info/) - StarkTx Transaction Decoder.
+- [protostar](https://docs.swmansion.com/protostar/) - CLI tool for developing and testing contracts in Cairo.
 
 #### Utility
 
